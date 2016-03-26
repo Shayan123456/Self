@@ -233,10 +233,14 @@ function create_config( )
      "plugins",
      "poker",
      "version",
+     "boobs",
+     "myid",
+     "chat",
+     "voice",
      "addplug",
      "help",
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {87160007},
     admin_users = {},
     disabled_channels = {}
   }
