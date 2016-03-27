@@ -234,6 +234,7 @@ function create_config( )
      "poker",
      "version",
      "boobs",
+     "downloader",
      "myid",
      "chat",
      "voice",
