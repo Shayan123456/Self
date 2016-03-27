@@ -231,7 +231,6 @@ function create_config( )
       "eng",
      "ctrl",
      "plugins",
-     "poker",
      "version",
      "boobs",
      "downloader",
